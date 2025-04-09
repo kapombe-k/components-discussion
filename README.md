@@ -1,6 +1,6 @@
 ## Instructions
 
--   Clone the repo
+-   Clone the repo then run `npm install` and then `npm run dev` to start the app
 -   Attached is a screenshot of how the app should look like
 -   All components are already present and styled
 -   Figure out which props to pass and where to connect the components
