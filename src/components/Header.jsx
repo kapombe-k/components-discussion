@@ -4,4 +4,4 @@ export function Header({ title }) {
 			<h1 className="text-xl font-semibold">{title}</h1>
 		</header>
 	);
-}
+};
